@@ -1,4 +1,4 @@
-# Jarir Marketing Company — LBO Model (Tadawul: 4190)
+# Jarir Marketing Company LBO Model (Tadawul: 4190)
 
 An illustrative Leveraged Buyout (LBO) analysis built on Jarir Marketing Company, a publicly traded Saudi retailer, as a practical case study in PE deal process and LBO modeling.
 
@@ -29,7 +29,7 @@ All figures are fully formula-driven and linked across tabs.
 
 ## Key takeaway
 
-At Jarir's current market valuation, returns are driven almost entirely by the exit multiple assumption, not leverage — flexing entry leverage from 3.0x to 5.0x barely moves the IRR at any given exit multiple. This suggests Jarir, in its current form, is a structurally weak LBO candidate without a credible path to margin expansion, M&A-driven growth, or multiple re-rating at exit.
+At Jarir's current market valuation, returns are driven almost entirely by the exit multiple assumption, not leverage flexing entry leverage from 3.0x to 5.0x barely moves the IRR at any given exit multiple. This suggests Jarir, in its current form, is a structurally weak LBO candidate without a credible path to margin expansion, M&A-driven growth, or multiple re-rating at exit.
 
 ## Disclaimer
 
